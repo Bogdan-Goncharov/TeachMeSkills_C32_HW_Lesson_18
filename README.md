@@ -7,6 +7,7 @@ Multiply each element by 2
 Sort and display the first 4 elements
 Display the number of elements in the stream
 Display the arithmetic mean of all numbers in the stream
+
 Task 2:
 Create a collection of the ArrayList class with the values ​​of the names of all students in the group. Using Streams:
 
